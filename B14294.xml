@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trevve description of the nobill race of the Stevvards succedinge lineallie to the Croun of Scotland vnto this day: and novv this yeir 1603. vnto the croun of England: vvith thair lyvvelie portraturs, declaring exactlie vvhat tyme thay begane to reigne, hovv lange thay reigned, and of vvhat qualities thay vvere.</title>
+            <author>Johnston, John, 1570?-1611.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14294</idno><idno type="EEBO-CITATION">99842475</idno>
+  <idno type="VID">177937</idno>
+  <idno type="EEBO-PROQUEST">2248572767</idno>
+  <idno type="STC">STC 14787.4</idno>
+  <idno type="STC">ESTC S106765</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842475e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1274:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trevve description of the nobill race of the Stevvards succedinge lineallie to the Croun of Scotland vnto this day: and novv this yeir 1603. vnto the croun of England: vvith thair lyvvelie portraturs, declaring exactlie vvhat tyme thay begane to reigne, hovv lange thay reigned, and of vvhat qualities thay vvere.</title>
+                  <author>Johnston, John, 1570?-1611.</author>
+               </titleStmt>
+               <extent>[11] leaves : ports. (engravings)  </extent>
+               <publicationStmt>
+                  <publisher>Ad [sic] the expensis of Andro Hart buikseller in Edinbrugh,</publisher>
+                  <pubPlace>[Printed at Amsterdam :</pubPlace>
+                  <date>Anno 1603]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Jonston.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A later state of the edition with undated colophon; "at least the texts under James VI and Anne of Denmark have been revised"--STC. These two states have prose captions in Scots prose. The plates were originally used in Johnston's "Inscriptiones historicæ regum Scotorum", which had Latin verse below the portraits.</note>
+                  <note>Identified as STC 12886 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="sco">sco</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Stuart, House of --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177937:1"/>
+            <p>A TREVVE DESCRIPTION OF the nobill race of the <hi>Stevvards:</hi> succedinge Lineallie to the Croun of <hi>Scotland</hi> vnto this day: And novv this yeir 1603. vnto the Croun of <hi>England:</hi> vvith thair lyvvelie portraturs, declaring exactlie vvhat tyme thay begane to reigne, hovv lange thay reigned, and of vvhat qualities thay vvere.</p>
+            <p>
+               <figure>
+                  <figDesc>Steward family coat of arms</figDesc>
+                  <p>IN DEFENCE</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb facs="tcp:177937:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Robert II</figDesc>
+                  <p>ROBERTVS II REX SCOTORVM</p>
+               </figure>
+            </p>
+            <p>RObert the secund sur-named <hi>Blear-eic,</hi> the first of the <hi>Stevvar<g ref="char:EOLhyphen"/>des,</hi> son to <hi>VValter Stevvard,</hi> &amp; <hi>Mariorie Bruyse K. Robert Bruyse</hi> his daughter, succeedit to his mothers brother, in the yeir of the vvarld 5341. in the yeir of Christ 1371. A gud and a peaceable Prince. He maried first <hi>Eufeme</hi> daughter to <hi>Hug</hi> Earl of <hi>Rosse,</hi> vvho bare vnto him <hi>David</hi> Earl of Strathern. <hi>VValter</hi> Earl of Athol, and <hi>Alexander</hi> Earl of Buchan, Lord Badzenoth: After her death for th' affection he bare to his childern, begotten before his first mariage, he maried <hi>Elizabeth Mure,</hi> daughter to Sir <hi>Adam. Mure</hi> Knight, VVho had borne vnto him <hi>Iohn,</hi> thereafter called <hi>Robert</hi> 3. Earle of Carrict <hi>Robert</hi> Earle of Fife and Menteith, and <hi>Eufeme</hi> vvife to <hi>Iames</hi> Earle of Dovvglas. He died at Dun donald the 19. yeir of his reign, &amp; vvas buried at Scone.</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:3"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Robert III</figDesc>
+                  <p>ROBERTVS III REX SCOTORVM,</p>
+               </figure>
+            </p>
+            <p>
+               <hi>RObert</hi> the thred sur-named <hi>Iohn Farne-yeir,</hi> succeded to his fa<g ref="char:EOLhyphen"/>ther, in the yeire of the vvarld 5360. in the yeire of Christ 1390. A quiet and peaceable prince: He maried <hi>Anabel Drummond,</hi> daugh<g ref="char:EOLhyphen"/>ter to the Laird of Stobhall, vvho bare vnto him <hi>David,</hi> the Prince, Duke of Rothesay, that died in prisone of verie extreame famine, at Falkland, and <hi>Iames</hi> the first taken in his voyage to France, and detei<g ref="char:EOLunhyphen"/>ned a captive, almost the space of 18. yeires in England. He died of displeasure at Rothesay, vvhen he heard of the death of th'one sonne, and captivitie of the other, and vvas buried at Paisley, in the 16. yeir of his reigne.</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:4"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of James I</figDesc>
+                  <p>IACOBVS, I, REX, SCOTORVM,</p>
+               </figure>
+            </p>
+            <p>
+               <hi>IAmes</hi> the first began to reigne in the yeire of the vvarld 5394. in the yeire of Christ 1424. He vvas a gude, learned, vertuous and just prince. He maried <hi>Ieane</hi> daughter to <hi>Iohn</hi> Duke of <hi>Summerset</hi> and Marques <hi>Dorcet,</hi> sonne to <hi>Iohn</hi> of Ghent, <hi>3.</hi> sonne to <hi>Edvvard 3.</hi> the victorious King of <hi>England,</hi> vvho bare vnto him <hi>Iames</hi> the 2. and sex daughters <hi>Margaret</hi> vvife to <hi>Levves II.</hi> the <hi>Daulphin,</hi> thereafter King of <hi>France, Elizabeth</hi> the Duches of <hi>Britaine, Ieane</hi> countes of Hunt<g ref="char:EOLhyphen"/>ley, <hi>Eleonor</hi> Duches of <hi>Austria, Marie</hi> vvife to the Lord of <hi>Camp-ve<g ref="char:EOLhyphen"/>re,</hi> &amp; <hi>Anabella.</hi> He vvas slaine at Perth traiterouslie be <hi>VValter</hi> Erle of <hi>Athole,</hi> and <hi>Robert Grahame</hi> and their confederates, in the <hi>31.</hi> yeire of his reigne, gif vve count from the death of his father: and in the <hi>13.</hi> yei<g ref="char:EOLhyphen"/>re, gif vve count from his deliverance out of <hi>England,</hi> and vvas buried at the Charter-house of Perth quhilk he builded.</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:5"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of James II</figDesc>
+                  <p>IACOBVS, II REX SCOTORVM,</p>
+               </figure>
+            </p>
+            <p>
+               <hi>IAmes</hi> the secund succeeded to his father, in the yeire of the vvarld 5407 in the yeire of Christ 1437. a prince subject to great troubles in his youth. He maried <hi>Marie</hi> daughter to <hi>Arnold</hi> Duke of <hi>Geldre,</hi> Sistres daughter to <hi>Charles,</hi> surnamed <hi>Audax,</hi> the last Duke of <hi>Bur<g ref="char:EOLhyphen"/>gundy</hi> &amp;c. VVho bare vnto him three sonnes, <hi>Iames</hi> the 3. <hi>Iohn</hi> Erle of Mar. <hi>Alexander</hi> Duke of <hi>Albanie,</hi> and <hi>Marie</hi> vvife first to <hi>Thomas Boyde,</hi> Erle of <hi>Arrane,</hi> and after his decourting to <hi>Iames Hammilton</hi> of <hi>Cadzou.</hi> He vvas slaine at the sege of <hi>Roxburgh</hi> in the 24. yeir of his reigne.</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:6"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of James III</figDesc>
+                  <p>IACOBVS, III, REX, SCOTORVM</p>
+               </figure>
+            </p>
+            <p>
+               <hi>IAmes</hi> the thred, succeeded to his father in the yeire of the vvarld 5430. in the yeire of Christ 1460. A prince corrupted by vvicked Courtiers. He maried <hi>Margaret</hi> daughter to <hi>Christianus</hi> 1. surnamed <hi>Dives,</hi> King of <hi>Denmarke, Norvvay</hi> and <hi>Svveden.</hi> He vvas slaine at the fielde of <hi>Bannock-burne,</hi> in de 29. yeire of his reigne, and vvas bu<g ref="char:EOLhyphen"/>ried at <hi>Cambus-kenneth.</hi>
+            </p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:7"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of James IV</figDesc>
+                  <p>
+                     <hi>IACOBVS, IIII, REX, SCOTORVM,</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <hi>IAmes</hi> the feird, succeeded to his father, in the yeire of the vvarld 5459. In the yeire of Christ 1489. A noble and courageous Prince. He maried <hi>Margaret,</hi> Eldest daughter to <hi>Henry</hi> the 7. Erle of <hi>Riche<g ref="char:EOLhyphen"/>mond,</hi> King of <hi>Englnnd</hi> and <hi>Elizabeth</hi> dauchter to <hi>Edvvard</hi> the 4. In vvhose tvva persones the tvva houses of <hi>Lancaster</hi> and <hi>Yorke</hi> vvere vnited, and the bludie civill vvarres of <hi>England</hi> pacified. He vvas slai<g ref="char:EOLhyphen"/>ne at <hi>Flovvdon,</hi> in the tvventie five yeire of his reigne.</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:8"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of James V</figDesc>
+                  <p>
+                     <hi>IACOBVS, V, REX, SCOTORVM,</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <hi>IAmes</hi> the fyfte succeeded to his father in the yeire of the vvarld 5484. In the yeire of Christ 1514. A just prince and severe. He ma<g ref="char:EOLhyphen"/>ried first <hi>Magdalene,</hi> daughter to <hi>Frances</hi> 1. King of France, vvho died shortlie thereafter vvithout succession. After her he maried <hi>Marie</hi> of <hi>Lorayne,</hi> Duches of <hi>Longe-ville,</hi> daughter to <hi>Claude</hi> Du<g ref="char:EOLhyphen"/>ke of <hi>Guise.</hi> He died at Falkland in the 29. yeire of his reigne. He vvas buried at <hi>Halirude-house.</hi>
+            </p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:9"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Mary Queen of Scots</figDesc>
+                  <p>
+                     <hi>MARIA, REG: SCOTORVM,</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <hi>MArie</hi> succeeded to her father <hi>Iames</hi> the fyfte, in the yeire of the vvarld 5513. In the yeire of Christ 1543. a princesse verteouslie inclined. She maried first <hi>Frances</hi> 2. Daulphine, thereafter King of <hi>France,</hi> then after his death, returning hame to Scotland, she maried <hi>Henrie Stevvarde</hi> Duke of <hi>Albanie,</hi> &amp; Lord <hi>Darley,</hi> sonne to <hi>Ma<g ref="char:EOLhyphen"/>thevv</hi> Erle of <hi>Lennox</hi> (a comelie Prince, <hi>Pronepnoy</hi> to <hi>Henrie</hi> the 7. King of <hi>England</hi>) to vvhome she bare <hi>Iames</hi> the 6. She vvas put to death in <hi>England</hi> 8. <hi>Feb. 1586.</hi> after <hi>18.</hi> yeires captivitie,</p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:10"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of James VI</figDesc>
+                  <p>
+                     <hi>IACOBVS VI REX SCOTORVM.</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <hi>IAmes</hi> the first of <hi>England,</hi> and sext of <hi>Scotland,</hi> a gude, godlie, and learned Prince, succeeded to his Mother in the yeire of the vvarld 5537. In the yeire of Christ <hi>1567.</hi> And nove to his cousinge of Blessed memorie <hi>Elisabeth, lait Queine of England</hi> in the yeir of the vvarlde 5563. in the yeir of Christ 1603. He maried <hi>Anna</hi> Daughter to <hi>Fre<g ref="char:EOLhyphen"/>derik</hi> the 2. King of <hi>Denmark,</hi> &amp;c. And <hi>Sophia, Vlricus</hi> the Ducke of <hi>Mekelburgh</hi> his only Daughter, quha hes borne vnto him alreadie <hi>Henrie Frederik,</hi> the Prince, the 19. <hi>Febr.</hi> 1593. <hi>Elizabeth 19. August. 1596. Margret 24. Decemb. 1598. Charles</hi> Ducke of <hi>Rosay</hi> 19. <hi>No<g ref="char:EOLhyphen"/>vemb. 1600.</hi> And <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> He is novv pre<g ref="char:EOLhyphen"/>sen the King of <hi>England, Scotland, France</hi> and <hi>Irland,</hi> and this yeir <hi>1603.</hi> is the first of his reigne in <hi>England</hi> &amp;c. and the 37. yeir of his reigne in <hi>Scotland.</hi>
+            </p>
+         </div>
+         <div type="biography">
+            <pb facs="tcp:177937:11"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Anne</figDesc>
+                  <p>
+                     <hi>ANNA REGINA SCOTORVM</hi>
+                  </p>
+               </figure>
+            </p>
+            <p>
+               <hi>ANna</hi> daughter to that nobil Prince of vvorthie memorie <hi>Frede<g ref="char:EOLhyphen"/>rik</hi> the 2. King of <hi>Denmark,</hi> &amp;c. marijt vnto <hi>Iames</hi> the sext, in the yeir of Christ 1590. vvho hath borne vnto him alreadie fyve chil<g ref="char:EOLhyphen"/>drene befoir mentioned. The Lord in mercie indevve thame and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hair posterities vvith sick measure of his grace, that not onlie the Kirk of Christ in thair dominions, bot also in vvhole <hi>Europe,</hi> may <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ind a blessinge in thair happie Governement, Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in Amsterdam, Ad the expensis of ANDRO HART Buikseller in Edinbrugh. Anno 1603.</p>
+            <p>
+               <hi>Cum privilegio Regiae Maiestatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
